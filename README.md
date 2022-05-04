@@ -8,6 +8,7 @@ Links:
 Servidor back-end com o ratchet: https://github.com/joaokelton/websocket-ratchet
 
 Obs:. Aplicação reescrita em Vue 3 (e com a dependência do ratchet atualizada) com base em um projeto já existente, porém antigo.
+
 Créditos ao artigo original da aplicação desenvolvida: https://rafaelcouto.com.br/chat-simples-utilizando-websocket-vue-js-e-php/
 
 ## Install the dependencies
